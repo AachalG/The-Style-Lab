@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://proud-beach-0ecec5100.3.azurestaticapps.net/
-**Project Demo Video Link** - 
+**Project Demo Video Link** - https://youtu.be/w2StGqmkteY
 
 ## Azure technologies used for Project
 
